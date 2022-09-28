@@ -4,7 +4,7 @@ from flask_moment import Moment
 from datetime import datetime
 
 app = Flask(__name__)
-
+app.config['SECRET_KEY'] = 'ABCDE'
 bootstrap = Bootstrap(app)
 moment = Moment(app) # init the flask-moment
 
