@@ -12,3 +12,8 @@ This repo is a clone of  https://github.com/miguelgrinberg/flasky.
 ## Activity 3 (3 point): Replay and modify example in Chapter 3 
 ![](images/Activity3.png)
 
+## Activity 4 (3 point): Replay and modify example in Chapter 4
+![](images/Activity4-1.png)
+![](images/Activity4-2.png)
+![](images/Activity4-3.png)
+![](images/Activity4-4.png)
